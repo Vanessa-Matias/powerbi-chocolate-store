@@ -4,7 +4,7 @@
 Mini-projeto de Power BI realizado por **Vanessa Matias** — demonstração de um dashboard comercial para uma loja de chocolates, com foco em análise de faturamento, representatividade de vendas, ranking de lojas e análise geográfica.
 
 **Visualizar o relatório (Power BI Service):**  
-[Acessar o Relatório de Vendas da Chocolate Store](https://app.powerbi.com/viewr=eyJrIjoiMmFmOTk4NjYtNDdiZS00NmJkLTg2ODQtNTEwZDg0YjdmMzRlIiwidCI6IjRhMjJmMTE2LTUxY2UtNGZlMy1hZWFhLTljNDYxNDNkMDg4YiJ9)
+[Acessar o Relatório de Vendas da Chocolate Store](https://app.powerbi.com/view?r=eyJrIjoiMmFmOTk4NjYtNDdiZS00NmJkLTg2ODQtNTEwZDg0YjdmMzRlIiwidCI6IjRhMjJmMTE2LTUxY2UtNGZlMy1hZWFhLTljNDYxNDNkMDg4YiJ9)
 ![Dashboard do Projeto](https://raw.githubusercontent.com/Vanessa-Matias/powerbi-chocolate-store/main/img/Captura%20de%20tela%202025-08-09%20140134.png)
 
 ## O que eu aprendi e pratiquei
