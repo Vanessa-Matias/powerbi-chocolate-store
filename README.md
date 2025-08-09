@@ -5,7 +5,7 @@ Mini-projeto de Power BI realizado por **Vanessa Matias** — demonstração de 
 
 **Visualizar o relatório (Power BI Service):**  
 [Acessar o Relatório de Vendas da Chocolate Store](https://app.powerbi.com/viewr=eyJrIjoiMmFmOTk4NjYtNDdiZS00NmJkLTg2ODQtNTEwZDg0YjdmMzRlIiwidCI6IjRhMjJmMTE2LTUxY2UtNGZlMy1hZWFhLTljNDYxNDNkMDg4YiJ9)
-![Screenshot do Dashboard](screenshots/dashboard.png)
+![Dashboard do Projeto](https://raw.githubusercontent.com/Vanessa-Matias/powerbi-chocolate-store/main/img/Captura%20de%20tela%202025-08-09%20140134.png)
 
 ## O que eu aprendi e pratiquei
 Neste mini-projeto, tratei e transformei dados diretamente no Power Query, criei e gerenciei relacionamentos entre tabelas para garantir integridade analítica, desenvolvi medidas e indicadores usando DAX para KPIs (receita, ticket médio, quantidade vendida), e construí visualizações de impacto (gráficos de área, donut com breakdown por categoria, barras de ranking e mapa geográfico). Também trabalhei no design do dashboard para torná-lo funcional e com leitura rápida para tomada de decisão.
@@ -29,4 +29,4 @@ MIT License — consulte o ficheiro `LICENSE` para detalhes.
 
 ---
 
-**Contato:** vanessamatias16.s@gmail.com ou link do LinkedIn
+**Contato:** vanessamatias16.s@gmail.com 
